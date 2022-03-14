@@ -16,3 +16,8 @@ header{
 #photo-sources{
     font-size: 12px;
 }
+#author{
+    text-decoration: none;
+    color: blue;
+
+}
