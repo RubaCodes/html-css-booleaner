@@ -1,7 +1,7 @@
 header{
     position: relative;
     height: 150px;
-    background-color: rgb(22, 133, 207);
+    background-color: #1e9ed6;
     background-image: url("../img/pattern.png");
 }
 #logo{
@@ -21,12 +21,12 @@ header{
     color: blue;
 }
 table{
-    border: none;
+    border-collapse: collapse;
 }
 thead{
-    background-color: blue;
+    background-color: #1e9ed6;
     color: white;
 }
 #first-row, #third-row{
-    background-color: cyan;
+    background-color: #b1e5f2;
 }
