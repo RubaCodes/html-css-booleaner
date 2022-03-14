@@ -18,9 +18,10 @@ header{
 }
 #author{
     text-decoration: none;
-    color: blue;
+    color: #1e9ed6;
 }
 table{
+    width: 100%;
     border-collapse: collapse;
 }
 thead{
@@ -30,3 +31,14 @@ thead{
 #first-row, #third-row{
     background-color: #b1e5f2;
 }
+.first-column, .second-column{
+    width: 25%;
+    
+}
+.third-column{
+    width: 50%;
+}
+th{
+    text-align: left;
+}
+
