@@ -19,5 +19,14 @@ header{
 #author{
     text-decoration: none;
     color: blue;
-
+}
+table{
+    border: none;
+}
+thead{
+    background-color: blue;
+    color: white;
+}
+#first-row, #third-row{
+    background-color: cyan;
 }
