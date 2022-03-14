@@ -1,12 +1,15 @@
 header{
     position: relative;
-    height: 175px;
+    height: 150px;
     background-color: rgb(22, 133, 207);
     background-image: url("../img/pattern.png");
 }
-
 #logo{
     height: 75px;
     position: absolute;
     bottom: 0;
+}
+.grey-text{
+    color: grey;
+    font-size: 14px;
 }
