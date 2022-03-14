@@ -46,4 +46,17 @@ thead{
     width: 50%;
 }
 
-
+/* Sezione articoli correlati */
+#related-articles{
+    color:grey
+}
+footer div{
+    height: 300px;
+    width: 300px;
+}
+#first-article{
+    background-image: url("../img/monitor.jpg");
+}
+#second-article{
+    background-image: url("../img/graph.jpg");
+}
