@@ -50,9 +50,15 @@ thead{
 #related-articles{
     color:grey
 }
+/* uso selettore per non ripetermi,proprieta' in comune su tutti i div figli di footer */
 footer div{
     height: 300px;
     width: 300px;
+    color: white;
+    background-size: cover;
+    background-position: center;
+    font-size: 18px;
+    font-weight: bold;
 }
 #first-article{
     background-image: url("../img/monitor.jpg");
