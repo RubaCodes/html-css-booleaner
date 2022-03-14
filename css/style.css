@@ -1,3 +1,4 @@
+/* regole layour header */
 header{
     position: relative;
     height: 150px;
@@ -9,6 +10,7 @@ header{
     position: absolute;
     bottom: 0;
 }
+
 .grey-text{
     color: grey;
     font-size: 14px;
@@ -20,10 +22,14 @@ header{
     text-decoration: none;
     color: #1e9ed6;
 }
+/* gestione bordi ed allineamento testo */
 table{
-    width: 100%;
     border-collapse: collapse;
 }
+th{
+    text-align: left;
+}
+/* Colore tabella */
 thead{
     background-color: #1e9ed6;
     color: white;
@@ -31,14 +37,13 @@ thead{
 #first-row, #third-row{
     background-color: #b1e5f2;
 }
+
+/* Spacing colonne tabella */
 .first-column, .second-column{
-    width: 25%;
-    
+    width: 25%;  
 }
 .third-column{
     width: 50%;
 }
-th{
-    text-align: left;
-}
+
 
